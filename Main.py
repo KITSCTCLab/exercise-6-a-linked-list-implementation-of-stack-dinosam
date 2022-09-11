@@ -18,7 +18,7 @@ class Stack:
     """
     It prints all the elements of stack.
     """
-    # Write your code here  
+    # Write your code h  
 
 
 # Do not change the following code
